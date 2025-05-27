@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi im Somto and I like colourful IDEs👋
 
 <!--
 **SomtoNnajide/SomtoNnajide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🎯 I have aspirations to become a software engineer
+- 🔭 I’m currently working on fullstack projects, particularly focusing on NextJS
+- 🌱 I’m currently learning ... quite a lot 😭
+    - NxtJS
